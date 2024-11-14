@@ -10,7 +10,7 @@ This Book Library API is built using Laravel, it's a small application in Larave
 - Validation
 - Rate limiting
 - search (by isbn, author, and title) and filter (by author and status)
-- 
+- Soft delete
 
 ## Installation
 
